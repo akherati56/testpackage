@@ -1,6 +1,6 @@
 from setuptools import setup
 
 setup(
-    name='te',
+    name='testpackage',
     packages=['testpackage']
 )
